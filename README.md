@@ -4,5 +4,5 @@ This is a collection of educational material (slides and exercises) that I use t
 - Introduction to Computer Networks I/II 
 - Data Communications
 - Mobile Communications
-- Operating Systes
+- Operating Systems
 - Telecommunications
